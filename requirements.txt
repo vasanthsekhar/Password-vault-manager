@@ -1,0 +1,10 @@
+
+# SecureVault Password Manager - Python Dependencies
+# B.Tech 4th Year Capstone Project
+
+# Core dependency for encryption
+cryptography>=41.0.0
+
+# Note: All other functionality uses Python standard library:
+# - os, sys, json, base64, secrets, string, hashlib, getpass
+# - pathlib, datetime, typing
